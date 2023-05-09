@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "misc/ukbanner",
+		"1": "block/white_concrete",
+		"particle": "misc/ukbanner"
+	},
+	"elements": [
+		{
+			"from": [0.4, 0, 6],
+			"to": [15.9, 7, 6.25],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [5.75, 6.5, 0],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

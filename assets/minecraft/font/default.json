@@ -1,0 +1,264 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/1.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "ꐁ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/2.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "ꈁ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/3.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "셞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/4.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "섄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/5.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "섢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/6.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "섃"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/7.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "쌈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/8.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "쐅"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/9.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "쌣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/10.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "쐆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/11.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "逻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/12.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "鄈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/13.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "鄞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/14.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "递"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/15.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "逆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/16.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "셝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/17.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "셻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/18.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "솙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/19.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "途"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/20.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "鄜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/21.png",
+            "ascent": 8,
+            "height": 8,
+	    "size": 10.0,
+	    "oversample": 10.0,
+            "chars": [
+                "ꍍ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                                 "ꡥꡦ","ꡧꡨ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/info.png",
+            "ascent": -59,
+            "height": 130,
+            "chars": [
+                "ꢘ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/info2.png",
+            "ascent": -59,
+            "height": 130,
+            "chars": [
+                "码"
+            ]
+        },
+
+        { "ascent": -32768, "chars": [""], "file": "minecraft:font/split.png", "height": -3, "type": "bitmap" }
+    ]
+}

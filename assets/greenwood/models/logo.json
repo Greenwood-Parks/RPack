@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "greenwood:model/logo",
+		"particle": "greenwood:model/logo"
+	},
+	"elements": [
+		{
+			"from": [-9, 0, 6],
+			"to": [27, 27, 7],
+			"faces": {
+				"north": {"uv": [0, 0.352, 3.264, 1.664], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.592, 2.72], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.904, 2.304], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.448, 2.176], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.104, 2.72], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [3, 3, 3]
+		}
+	}
+}
