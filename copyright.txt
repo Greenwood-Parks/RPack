@@ -3,3 +3,5 @@ Individual creators will be labelled in the model's JSON file.
 
 Any copyright notices to be directed to:
 voidemtwitch@gmail.com
+
+Greenwood Parks 2023
