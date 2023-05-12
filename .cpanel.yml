@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/unitypar/public_html/cdnGW/resourcePack
+    - /bin cp * $DEPLOYPATH
