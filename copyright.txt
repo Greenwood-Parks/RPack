@@ -1,4 +1,4 @@
-All resource pack edits are owned by Greenwood Parks or the creator of the asset.
+All resource pack assets are owned by Greenwood Parks or the asset's creator.
 Individual creators will be labelled in the model's JSON file.
 
 Any copyright notices to be directed to:
