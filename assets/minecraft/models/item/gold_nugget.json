@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/gold_nugget"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "greenwood:image_models/logo"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "greenwood:image_models/logo"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "greenwood:image_models/logo"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "greenwood:image_models/logo"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "greenwood:image_models/logo"
+        },
+    ],
+}

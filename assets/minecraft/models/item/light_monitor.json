@@ -1,4 +1,0 @@
-{
-    "parent": "minecraft:item/light",
-    "textures":{"0":"misc/monitor","particle":"misc/monitor"}
-}
