@@ -8,19 +8,19 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "greenwood:rides/canada_cutter_norest"
+            "model": "customNS:rides/train1"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "coastercon:rides/canada_cutter_rest"
+            "model": "greenwood:rides/canada_cutter_rest"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "coastercon:rides/canada_cutter_train"
+            "model": "greenwood:rides/canada_cutter_train"
         },
-    ],
+    ]
 }
