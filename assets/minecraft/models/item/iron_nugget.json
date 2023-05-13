@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "customNS:rides/train1"
+            "model": "greenwood:rides/canada_cutter_norest"
         },
         {
             "predicate": {
