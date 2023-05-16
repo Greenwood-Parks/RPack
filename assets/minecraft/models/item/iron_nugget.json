@@ -21,6 +21,7 @@
                 "custom_model_data": 3
             },
             "model": "greenwood:rides/canada_cutter_train"
-        },
-    ]
+        }
+    ],
+	"WARNING": "Test."
 }

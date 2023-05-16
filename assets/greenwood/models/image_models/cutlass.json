@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "greenwood:model/cutlass",
+		"particle": "greenwood:model/cutlass"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 1],
+			"to": [13, 8, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 1.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-80.94, -87.34, -164.98],
+			"translation": [-13.25, 7, 11.25],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -82.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 10.75, 0],
+			"scale": [2.32, 2.75, 0]
+		}
+	}
+}

@@ -14,25 +14,50 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "greenwood:image_models/logo"
+            "model": "greenwood:image_models/cutlass"
         },
 		        {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "greenwood:image_models/logo"
+            "model": "greenwood:props/santahat"
         },
 		        {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "greenwood:image_models/logo"
+            "model": "greenwood:props/ukbanner"
         },
 		        {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "greenwood:image_models/logo"
+            "model": "greenwood:props/wreath"
         },
-    ]
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "greenwood:props/xmas_tree"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "greenwood:image_models/cutlass"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "greenwood:image_models/pirate"
+        },
+		        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "greenwood:props/ukbanner"
+        }
+    ],
+	"WARNING": "."
 }
