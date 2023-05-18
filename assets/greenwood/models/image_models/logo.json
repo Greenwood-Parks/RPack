@@ -19,6 +19,10 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"translation": [0, -3, 0],
+			"scale": [0.44, 0.62, 1]
+		},
 		"head": {
 			"scale": [3, 3, 3]
 		}
