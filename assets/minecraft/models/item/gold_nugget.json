@@ -57,6 +57,54 @@
                 "custom_model_data": 9
             },
             "model": "greenwood:atr/image_models/mbsign"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "greenwood:props/gw3d"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "greenwood:atr/props/atr3d"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "greenwood:decor/journal1"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "greenwood:decor/journal2"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "greenwood:decor/journal3"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "greenwood:props/kingdomotp"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "greenwood:props/pillarbottom"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "greenwood:props/pillartop"
         }
     ],
 	"WARNING": "."

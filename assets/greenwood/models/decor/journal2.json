@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "misc/a49c7d",
-		"2": "misc/401521",
-		"3": "misc/a38f52",
-		"4": "misc/776e48",
-		"5": "misc/65222e",
-		"6": "misc/diary3",
-		"particle": "misc/65222e"
+		"0": "greenwood:model/misc/a49c7d",
+		"2": "greenwood:model/misc/401521",
+		"3": "greenwood:model/misc/a38f52",
+		"4": "greenwood:model/misc/776e48",
+		"5": "greenwood:model/misc/65222e",
+		"6": "greenwood:model/misc/diary2",
+		"particle": "greenwood:model/misc/65222e"
 	},
 	"elements": [
 		{
