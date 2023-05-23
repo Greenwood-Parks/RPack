@@ -44,7 +44,7 @@
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "greenwood:merch/mugGW"
+            "model": "greenwood:merch/gwmug"
         },
 		        {
             "predicate": {
@@ -105,6 +105,138 @@
                 "custom_model_data": 17
             },
             "model": "greenwood:props/pillartop"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "greenwood:decor/seatoutside"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "greenwood:decor/seatwool"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "greenwood:merch/cap"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "greenwood:merch/tophat"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "greenwood:statues/voidem"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "greenwood:statues/david"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "greenwood:statues/kyle"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "greenwood:statues/penguin"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "greenwood:statues/tomster"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "greenwood:statues/callum"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "greenwood:decor/seatwool"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "greenwood:merch/cap"
+        },
+								        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "greenwood:merch/backpack_black"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "greenwood:merch/backpack_dark_blue"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "greenwood:merch/backpack_dark_green"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "greenwood:merch/backpack_gray"
+        },
+				        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "greenwood:merch/backpack_light_blue"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "greenwood:merch/backpack_light_gray"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "greenwood:merch/backpack_light_green"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "greenwood:merch/backpack_purple"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "greenwood:merch/backpack_red"
+        },
+						        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "greenwood:merch/backpack_white"
         }
     ],
 	"WARNING": "."
