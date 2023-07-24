@@ -237,6 +237,18 @@
                 "custom_model_data": 39
             },
             "model": "greenwood:merch/backpack_white"
+        },
+								        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "greenwood:props/fakearrow"
+        },
+										        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "greenwood:props/bodypart1_arm"
         }
     ],
 	"WARNING": "."

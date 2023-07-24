@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/white_concrete",
-		"1": "greenwood:model/merch/mugLogo",
+		"1": "greenwood:model/merch/muglogo",
 		"particle": "block/white_concrete"
 	},
 	"elements": [
